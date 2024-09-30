@@ -24,7 +24,7 @@ Jika user berhasil memasukkan data diri yang benar maka akan muncul tulisan "nam
 ![image](https://github.com/user-attachments/assets/5677e4e1-0202-4180-9994-e8663da521a5)
 
 
-Namun jika salah memasukkan nama dan nim maka akan muncul tulisan "nama dan nim anda salah".<br>
+Namun jika salah memasukkan nama dan nim maka akan muncul tulisan "nama dan nim anda salah".'<br>'
 
 
 
