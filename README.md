@@ -24,12 +24,11 @@ Jika user berhasil memasukkan data diri yang benar maka akan muncul tulisan "nam
 ![image](https://github.com/user-attachments/assets/5677e4e1-0202-4180-9994-e8663da521a5)
 
 
-Namun jika salah memasukkan nama dan nim maka akan muncul tulisan "nama dan nim anda salah".'<br>'
+Namun jika salah memasukkan nama dan nim maka akan muncul tulisan "nama dan nim anda salah".<br>
 
 
 
-
-
+<br>
 ### 2. Kedua, user menginputkan tarif gaji dan jam kerja.
 
 User menginputkan tarif gaji dan jam kerja yang kurang atau sama dengan 160 jam.
@@ -41,6 +40,7 @@ User menginputkan tarif gaji dan jam kerja yang kurang atau sama dengan 160 jam.
 Ini adalah kondisi output ketika user tidak mendapatkan bonus karena jam kerja yang kurang atau sama dengan 160 jam.
 
 
+<br>
 User menginputkan tarif gaji dan jam kerja yang jam kerjanya lebih dari 160 jam.
 
 
@@ -50,6 +50,7 @@ User menginputkan tarif gaji dan jam kerja yang jam kerjanya lebih dari 160 jam.
 Ini adalah kondisi output ketika user mendapatkan bonus karena jam kerja yang lebih dari 160 jam sehingga mendapatkan bonus sebesar 10%.
 
 
+<br>
 3. Kemudian setelah menginputkan tarif dan jam kerja akan ada pilihan apakah ingin menghitung ulang atau tidak.
 
 
@@ -60,6 +61,7 @@ Ini adalah kondisi output ketika user mendapatkan bonus karena jam kerja yang le
 ![image](https://github.com/user-attachments/assets/e9e1fc88-baf0-4023-8384-5972440f766d)
 
 
+<br>
 Jika memilih untuk mengulang maka akan kembali ke bagian inputan tarif dam jam kerja.
 
 
