@@ -8,12 +8,14 @@ if nim == "079":
     print("nim anda benar")
 else:
     print("nim anda salah")
-print()
+print("\n------------")
 print("Nama: ",nama)
 print("NIM: ",nim)
+print("-------------")
 
 def operasi():
-    jam_kerja = int(input("\nmasukkan jam kerja anda: "))
+    print("--------------------------------------------")
+    jam_kerja = int(input("masukkan jam kerja anda: "))
     tarif_kerja = int(input("masukkan tarif kerja/jam: "))
     gaji = jam_kerja * tarif_kerja
     print ("ini adalah gaji anda: ",gaji)
@@ -22,6 +24,7 @@ def operasi():
         print("bonus anda sebesar: ",bonus)
     else:
         print("tidak ada bonus: ")
+    print("--------------------------------------------")
 
 while True:
     operasi()
