@@ -57,6 +57,8 @@ Ini adalah kondisi output ketika user mendapatkan bonus karena jam kerja yang le
 ![image](https://github.com/user-attachments/assets/80f49c00-99a5-4f5c-bead-300ebf4929df)
 
 
+Disini diberikan dua pilihan apakah ingin menghitung ulang gaji atau tidak.<br>
+
 
 ![image](https://github.com/user-attachments/assets/e9e1fc88-baf0-4023-8384-5972440f766d)
 
