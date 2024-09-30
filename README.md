@@ -12,7 +12,7 @@ Nama: Moch. Farris Alfiansyah Nim: 2409116079 Kelas: B
 ini adalah hasil output keseluruhan.
 
 # penjelasan
-1. Pertama user menginputkan data diri dengan memasukkan nama dan nim.
+### 1. Pertama user menginputkan data diri dengan memasukkan nama dan nim.
 
 
 ![image](https://github.com/user-attachments/assets/94e91393-c0f1-4960-b71b-a45e64a614ca)
@@ -30,7 +30,7 @@ Namun jika salah memasukkan nama dan nim maka akan muncul tulisan "nama dan nim 
 
 
 
-2. Kedua, user menginputkan tarif gaji dan jam kerja.
+### 2. Kedua, user menginputkan tarif gaji dan jam kerja.
 
 User menginputkan tarif gaji dan jam kerja yang kurang atau sama dengan 160 jam.
 
