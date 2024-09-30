@@ -9,7 +9,12 @@ Nama: Moch. Farris Alfiansyah Nim: 2409116079 Kelas: B
 ![image](https://github.com/user-attachments/assets/08c29ce3-229b-4342-be88-ab14bd1f3721)
 
 
-ini adalah hasil output keseluruhan
+ini adalah hasil output keseluruhan.
+
+# penjelasan
+1. Pertama user menginputkan data diri
+![image](https://github.com/user-attachments/assets/94e91393-c0f1-4960-b71b-a45e64a614ca)
+
 
 
 
