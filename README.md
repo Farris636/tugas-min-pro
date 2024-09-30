@@ -14,8 +14,18 @@ ini adalah hasil output keseluruhan.
 # penjelasan
 1. Pertama user menginputkan data diri dengan memasukkan nama dan nim.
 
-   
+
 ![image](https://github.com/user-attachments/assets/94e91393-c0f1-4960-b71b-a45e64a614ca)
+
+
+Jika user berhasil memasukkan data diri yang benar maka akan muncul tulisan "nama dan nim anda benar".
+
+
+![image](https://github.com/user-attachments/assets/5677e4e1-0202-4180-9994-e8663da521a5)
+
+
+Namun jika salah memasukkan nama dan nim maka akan muncul tulisan "nama dan nim anda salah"
+
 
 
 2. Kedua user menginputkan tarif gaji dan jam kerja.
