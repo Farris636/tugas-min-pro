@@ -28,22 +28,29 @@ Namun jika salah memasukkan nama dan nim maka akan muncul tulisan "nama dan nim 
 
 
 
-2. Kedua user menginputkan tarif gaji dan jam kerja.
 
 
-   2.1 Ketika tidak mendapat bonus.
+2. Kedua, user menginputkan tarif gaji dan jam kerja.
+
+User menginputkan tarif gaji dan jam kerja yang kurang atau sama dengan 160 jam.
 
 
-   ![image](https://github.com/user-attachments/assets/bba97585-2e44-4ea0-aa95-34707b0531bb)
+![image](https://github.com/user-attachments/assets/bba97585-2e44-4ea0-aa95-34707b0531bb)
 
 
-   2.2 ketika user mendapatkan bonus yaitu jam kerja yang lebih dari 160 jam.
+Ini adalah kondisi output ketika user tidak mendapatkan bonus karena jam kerja yang kurang atau sama dengan 160 jam.   
 
 
-   ![image](https://github.com/user-attachments/assets/9c86cdb6-3363-42da-a58a-43b2c2151665)
+User menginputkan tarif gaji dan jam kerja yang jam kerjanya lebih dari 160 jam.
 
 
-3.
+![image](https://github.com/user-attachments/assets/9c86cdb6-3363-42da-a58a-43b2c2151665)
+
+
+Ini adalah kondisi output ketika user mendapatkan bonus karena jam kerja yang lebih dari 160 jam sehingga mendapatkan bonus sebesar 10%.   
+
+
+4.
 
 
 
