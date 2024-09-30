@@ -28,7 +28,7 @@ Namun jika salah memasukkan nama dan nim maka akan muncul tulisan "nama dan nim 
 
 
 
-
+\
 
 2. Kedua, user menginputkan tarif gaji dan jam kerja.
 
