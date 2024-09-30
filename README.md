@@ -47,11 +47,11 @@ User menginputkan tarif gaji dan jam kerja yang jam kerjanya lebih dari 160 jam.
 ![image](https://github.com/user-attachments/assets/9c86cdb6-3363-42da-a58a-43b2c2151665)
 
 
-Ini adalah kondisi output ketika user mendapatkan bonus karena jam kerja yang lebih dari 160 jam sehingga mendapatkan bonus sebesar 10%.
+Ini adalah kondisi output ketika user mendapatkan bonus karena jam kerja yang lebih dari 160 jam sehingga mendapatkan bonus sebesar 10%.<br>
 
 
-<br>
-3. Kemudian setelah menginputkan tarif dan jam kerja akan ada pilihan apakah ingin menghitung ulang atau tidak.
+
+### 3. Kemudian setelah menginputkan tarif dan jam kerja akan ada pilihan apakah ingin menghitung ulang atau tidak.
 
 
 ![image](https://github.com/user-attachments/assets/80f49c00-99a5-4f5c-bead-300ebf4929df)
@@ -61,8 +61,7 @@ Ini adalah kondisi output ketika user mendapatkan bonus karena jam kerja yang le
 ![image](https://github.com/user-attachments/assets/e9e1fc88-baf0-4023-8384-5972440f766d)
 
 
-<br>
-Jika memilih untuk mengulang maka akan kembali ke bagian inputan tarif dam jam kerja.
+Jika memilih untuk mengulang maka akan kembali ke bagian inputan tarif dam jam kerja.<br>
 
 
 ![image](https://github.com/user-attachments/assets/23f76d79-6455-4bc5-8c02-84ff2988c111)
